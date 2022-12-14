@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Anny Alvarado</h1>
+<h1 align="center">Hola 👋, Me llamo Anny Alvarado</h1>
 <h3 align="center">me encanta el frontend</h3>
 
 - 💬 Ask me about **HTML, CSS**
