@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Anny Alvarado</h1>
 <h3 align="center">me encanta el frontend</h3>
 
-- 🌱 I’m currently learning **HTML, CSS**
-
 - 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **anny17.aa@gmail.com**
@@ -11,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anny alvardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anny alvardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/anny-alvarado-62973023b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anny-alvarado-62973023b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
