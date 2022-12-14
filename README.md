@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Anny Alvarado</h1>
 <h3 align="center">me encanta el frontend</h3>
 
-- 🌱 I’m currently learning **HTML, CSS QA**
+- 🌱 I’m currently learning **HTML, CSS**
+
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **anny17.aa@gmail.com**
 
